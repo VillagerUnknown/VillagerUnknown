@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VillagerUnknown
+- 👋 Hi, I’m @VillagerUnknown! I make Minecraft Mods.
 - 💞️ I’m looking to collaborate on modding Minecraft.
 - 📫 You can reach me by joining my discord at https://discord.gg/PXjXh6M38H
 
