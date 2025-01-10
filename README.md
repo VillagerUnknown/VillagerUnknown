@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @VillagerUnknown! I make Minecraft Mods.
-- 📫 You can reach me by joining my discord at https://discord.gg/PXjXh6M38H
+- 👋 Hrm.
 
 <!---
 VillagerUnknown/VillagerUnknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
