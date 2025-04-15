@@ -13,7 +13,7 @@ Please create a Github issue in the appropriate repository for any feedback or s
 I am currently working on Villager Coin, a currency system with various addons that changes villager trading. Your support downloading the mod and providing feedback by creating a Github issue is greatly appreciated!
 
 - https://www.curseforge.com/minecraft/mc-mods/villagerunknown-villagercoin
-- https://modrinth.com/mod/villagerunknown-villagercoin (under review)
+- https://modrinth.com/mod/villagerunknown-villagercoin
 
 
 
