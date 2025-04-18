@@ -2,7 +2,7 @@
 
 I currently develop mods for _Minecraft 1.21.1_, make improvements based on your feedback, and update to the latest Minecraft versions when the mod is ready.
 
-My mods are hosted on CurseForge and Modrinth. Any other platform has hosted my mod without my permission.
+My mods are hosted on CurseForge and Modrinth. Any other platform has hosted my mod(s) without my permission.
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
 Mods will only receive updates for the latest version of Minecraft that the mod supports unless a critical issue is reported for a previous version.
