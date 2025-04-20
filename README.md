@@ -11,7 +11,7 @@ Mods will only receive updates for the latest version of Minecraft that the mod 
 
 ## Current Project
 
-I am currently working on Villager Coin, a coin currency library with various addons. It also optionally changes villager trading to use coins instead of emeralds. 
+I am currently working on **Villager Coin**, a coin currency library with various addons. It also optionally changes villager trading to use coins instead of emeralds. 
 Your support downloading the mod and providing feedback by creating a Github issue is greatly appreciated!
 
 - https://www.curseforge.com/minecraft/mc-mods/villagerunknown-villagercoin
