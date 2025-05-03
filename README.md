@@ -2,7 +2,7 @@
 
 I currently develop mods for _Minecraft 1.21.1_, make improvements based on your feedback, and update to the latest Minecraft versions when the mod is ready.
 
-- My mods are hosted on [CurseForge](https://www.curseforge.com/members/villagerunknown/projects) and [Modrinth](https://modrinth.com/user/VillagerUnknown). Any other platform has hosted my mod(s) without my permission.
+- My mods are hosted on [CurseForge](https://www.curseforge.com/members/villagerunknown/projects) and [Modrinth](https://modrinth.com/user/VillagerUnknown).
 - All of my mods are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en) license and can be distributed freely, with attribution, in modpacks.
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
