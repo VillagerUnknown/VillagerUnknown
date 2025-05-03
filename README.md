@@ -6,7 +6,7 @@ I currently develop mods for _Minecraft 1.21.1_, **make improvements based on yo
 - All of my mods are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en) license and can be distributed freely, with attribution, in modpacks.
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
-Mods will only receive updates for the latest version of Minecraft that the mod supports unless a critical issue is reported for a previous version or the community requests changes.
+Updates to my mods will only be considered for the latest version of Minecraft that the mod supports unless a critical issue is reported for a previous version or the community requests changes.
 
 
 
