@@ -3,7 +3,7 @@
 I currently develop mods for _Minecraft 1.21.1_, make improvements based on your feedback, and update to the latest Minecraft versions when the mod is ready.
 
 - My mods are hosted on CurseForge and Modrinth. Any other platform has hosted my mod(s) without my permission.
-- All of my mods are licensed under the [https://creativecommons.org/licenses/by/4.0/legalcode.en](CC-BY-4.0) license and can be distributed freely in modpacks.
+- All of my mods are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en) license and can be distributed freely in modpacks.
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
 Mods will only receive updates for the latest version of Minecraft that the mod supports unless a critical issue is reported for a previous version or the community requests changes.
