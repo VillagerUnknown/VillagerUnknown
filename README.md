@@ -5,7 +5,7 @@ I'm currently in the process of updating all of my Minecraft 1.21.1 mods and re-
 Villager Coin will be the last mod I release in Minecraft 1.21.1. After which, I will release my mods for _Minecraft 1.21.5/6_, **make improvements based on your feedback**, and update to the latest Minecraft versions when the mod is ready.
 
 - My mods are hosted on [CurseForge](https://www.curseforge.com/members/villagerunknown/projects) and [Modrinth](https://modrinth.com/user/VillagerUnknown).
-- All of my mods are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en) license and can be distributed freely, with attribution, in modpacks.
+- All of my mods are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en) license and can be distributed freely with attribution.
 - I create mods for the Fabric launcher. It's unlikely that I will personally port any of my mods to other launchers.
 
 _I plan on changing the namespaces of my mods to clean them up in the next major Minecraft version (1.22)._
