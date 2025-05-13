@@ -21,4 +21,5 @@ Your support downloading the mod and providing feedback by creating a Github iss
 ## Support
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
+
 Updates to my mods will only be considered for the latest version of Minecraft that the mod supports unless a critical issue is reported for a previous version or the community requests changes.
