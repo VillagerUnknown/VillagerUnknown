@@ -8,7 +8,6 @@ Villager Coin will be the last mod I release in Minecraft 1.21.1. After which, I
 - My mods can be included in modpacks.
 - I am in the process of changing the licensing of my mods to the MIT license.
 - I create mods for the Fabric launcher. It's unlikely that I will personally port any of my mods to other launchers.
-- _I plan on changing the namespaces of my mods to clean them up in the next major Minecraft version (1.22)._
 
 ## Current Project
 
