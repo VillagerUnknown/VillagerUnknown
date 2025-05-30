@@ -14,8 +14,8 @@ Villager Coin will be the last mod I release in Minecraft 1.21.1. After which, I
 I am currently working on **Villager Coin**, a coin currency library with various addons. It also optionally changes villager trading to use coins instead of emeralds. 
 Your support downloading the mod and providing feedback by creating a Github issue is greatly appreciated!
 
-- https://www.curseforge.com/minecraft/mc-mods/villagerunknown-villagercoin
-- https://modrinth.com/mod/villagerunknown-villagercoin
+- https://www.curseforge.com/minecraft/mc-mods/villagercoin
+- https://modrinth.com/mod/villagercoin
 
 ## Support
 
