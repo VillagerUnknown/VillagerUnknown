@@ -9,14 +9,6 @@ Villager Coin will be the last mod I release in Minecraft 1.21.1. After which, I
 - I am in the process of changing the licensing of my mods to the MIT license.
 - I create mods for the Fabric launcher. It's unlikely that I will personally port any of my mods to other launchers.
 
-## Current Project
-
-I am currently working on **Villager Coin**, a coin currency library with various addons. It also optionally changes villager trading to use coins instead of emeralds. 
-Your support downloading the mod and providing feedback by creating a Github issue is greatly appreciated!
-
-- https://www.curseforge.com/minecraft/mc-mods/villagercoin
-- https://modrinth.com/mod/villagercoin
-
 ## Support
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
