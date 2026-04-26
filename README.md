@@ -2,7 +2,6 @@
 
 - My mods are hosted on [CurseForge](https://www.curseforge.com/members/villagerunknown/projects) and [Modrinth](https://modrinth.com/user/VillagerUnknown).
 - My mods can be included in modpacks.
-- I create mods for the Fabric launcher. It's unlikely that I will personally port any of my mods to other launchers.
 - I enjoy hearing about your ideas and seeing how you use my mods!
 
 ## Support
