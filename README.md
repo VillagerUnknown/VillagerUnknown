@@ -9,4 +9,4 @@
 
 Please create a Github issue in the appropriate repository for any feedback or support. 
 
-_Please be aware of, and report, deceptive mods calling themselves Villager Coin. Always look for a dependency on VillagerUnknown's Platform and Villager Coin™._
+_Please be aware of, and report, deceptive mods calling themselves Villager Coin. Always look for a dependency on VillagerUnknown's Platform and Villager Coin™. I will not support any knockoffs._
